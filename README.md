@@ -4,24 +4,21 @@ This project showcases a comprehensive sales analysis of a superstore using Powe
 Page 1: Sales and Profit Overview
 1. Region Slicer: Filter data based on specific geographic regions.
 2. Donut Charts:
-
 Sales by Payment Mode: Analyze sales distribution across different payment methods.
 
 Sales by Segment: View sales contribution from various customer segments.
-4. Area Charts:
-
+3. Area Charts:
 Monthly Profit YoY: Track profit trends year-over-year, broken down by month.
 
 Monthly Sales YoY: Visualize monthly sales growth compared to previous years.
-5. Stacked Bar Charts:
-
+4. Stacked Bar Charts:
 Sales by Ship Mode: Breakdown of sales by different shipping methods.
 
 Sales by Sub-Category: Analyze performance across sub-categories of products.
 
 Sales by Category: Sales overview across major product categories.
-6. Map Visualization: Geographic distribution of profit and sales by state, highlighting high and low-performing regions.
-7. Key Metrics Cards:
+5. Map Visualization: Geographic distribution of profit and sales by state, highlighting high and low-performing regions.
+6. Key Metrics Cards:
 Total Sales: 1.57M
 
 Total Quantity Sold: 22K
