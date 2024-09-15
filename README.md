@@ -5,7 +5,7 @@ Page 1: Sales and Profit Overview
 1. Region Slicer: Filter data based on specific geographic regions.
 2. Donut Charts:
 
-  Sales by Payment Mode: Analyze sales distribution across different payment methods.
+    Sales by Payment Mode: Analyze sales distribution across different payment methods.
 
   Sales by Segment: View sales contribution from various customer segments.
 
