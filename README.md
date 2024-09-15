@@ -5,35 +5,35 @@ Page 1: Sales and Profit Overview
 1. Region Slicer: Filter data based on specific geographic regions.
 2. Donut Charts:
 
-    Sales by Payment Mode: Analyze sales distribution across different payment methods.
+        Sales by Payment Mode: Analyze sales distribution across different payment methods.
 
-  Sales by Segment: View sales contribution from various customer segments.
+        Sales by Segment: View sales contribution from various customer segments.
 
 3. Area Charts:
 
-  Monthly Profit YoY: Track profit trends year-over-year, broken down by month.
+      Monthly Profit YoY: Track profit trends year-over-year, broken down by month.
 
-  Monthly Sales YoY: Visualize monthly sales growth compared to previous years.
+      Monthly Sales YoY: Visualize monthly sales growth compared to previous years.
 
 4. Stacked Bar Charts:
 
-  Sales by Ship Mode: Breakdown of sales by different shipping methods.
+      Sales by Ship Mode: Breakdown of sales by different shipping methods.
 
-  Sales by Sub-Category: Analyze performance across sub-categories of products.
+      Sales by Sub-Category: Analyze performance across sub-categories of products.
 
-  Sales by Category: Sales overview across major product categories.
+      Sales by Category: Sales overview across major product categories.
 
 5. Map Visualization: Geographic distribution of profit and sales by state, highlighting high and low-performing regions.
 
 6. Key Metrics Cards:
 
-  Total Sales: 1.57M
+      Total Sales: 1.57M
 
-  Total Quantity Sold: 22K
+      Total Quantity Sold: 22K
 
-  Total Profit: 175K
+      Total Profit: 175K
 
-  Average Delivery Time: 4 days
+      Average Delivery Time: 4 days
 
 Page 2: Sales Over Time
 1. Line Chart: Sales trend over time, showcasing sales performance by order date.
